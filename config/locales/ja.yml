@@ -2,6 +2,8 @@ ja:
   activerecord:
     models:
       user: 'ユーザー'
+      admin_user: 'アドミンユーザー'
+      comment: 'コメント'
     attributes:
       user:
         name: '名前'
